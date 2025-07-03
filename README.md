@@ -1,2 +1,3 @@
-# Ars_Deae_Felinae
-Octō diēs exspectā
+# Ars Deæ Felīnæ
+## All Rights Reserved.
+_Numina Caelī Excelsī nullas habebant sedes, nisi tegōs stramineos ad pluviam construerent. Amaterasu Ōmikami hoc videns, Ame-no-Kushinadahime iussit aedes aedificare. Quae respondit: "Nullum bonum lignum est." Tum avem aquātilīm captam, ut in Lacū Salis Caelestis faeces emitteret, iussit. Amaterasu perterrita, eam accusavit quod lacum salinum polluisset. Kushinadahime dixit: "Octō diēs exspectā." Illō die, Ame-no-Kushinadahime clāmavit: "Ego tibi id afferam." Deinde ex Lacū Salis Caelestis faeces avium priōrēs extraxit, quae lignum rubrum quadruplum brachium crassum et continuum erat. Ex eo lignō rubrō et sale nitrō Aedes Amanomihashira et Aedes Amateruhashira aedificavit. Ex ultimo fragmentō lignī rubrī Yatagarasu no Kami Deus prodiit, qui Ame-no-Kushinadahime suam matrem recognovit. Tum Kushinadahime Aedes Amesakutarishiki aedificavit, in qua cum Yatagarasu no Kami latuit._
