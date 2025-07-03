@@ -1,0 +1,17 @@
+{
+  "variants": {
+    "":
+    {
+      "model": "poopsky:block/shit",
+      "weight": 3
+    },
+    {
+      "model": "poopsky:block/shit_with_liquids",
+      "weight": 1
+    },
+    {
+      "model": "poopsky:block/shit_with_maggots",
+      "weight": 1
+    }
+  }
+}

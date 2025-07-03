@@ -1,0 +1,12 @@
+# Blender 4.4.3 MTL File: 'mining_rocket.obj'
+# www.blender.org
+
+newmtl mat
+Ns 273.243774
+Ka 0.972727 0.972727 0.972727
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 1
+map_d mining_rocket.png
