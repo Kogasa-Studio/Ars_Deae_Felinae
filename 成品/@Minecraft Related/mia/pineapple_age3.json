@@ -1,0 +1,69 @@
+{
+	"format_version": "1.9.0",
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:block/block",
+	"texture_size": [64, 64],
+	"textures": {
+		"0": "pineapple",
+		"particle": "pineapple"
+	},
+	"elements": [
+		{
+			"from": [-3, 0, 8],
+			"to": [19, 13, 8],
+			"rotation": {"angle": 45, "axis": "y", "origin": [8, 8, 8]},
+			"faces": {
+				"north": {"uv": [0, 6, 5.5, 9.25], "texture": "#0"},
+				"south": {"uv": [5.5, 6, 0, 9.25], "texture": "#0"}
+			}
+		},
+		{
+			"from": [8, 0, -3],
+			"to": [8, 13, 19],
+			"rotation": {"angle": 45, "axis": "y", "origin": [8, 8, 8]},
+			"faces": {
+				"east": {"uv": [5.5, 6, 11, 9.25], "texture": "#0"},
+				"west": {"uv": [11, 6, 5.5, 9.25], "texture": "#0"}
+			}
+		},
+		{
+			"from": [6.25, 5, 6.25],
+			"to": [9.75, 9, 9.75],
+			"rotation": {"angle": -22.5, "axis": "y", "origin": [8, 6.5, 8]},
+			"faces": {
+				"north": {"uv": [2.5, 3.75, 3.5, 5], "texture": "#0"},
+				"east": {"uv": [2.5, 3.75, 3.5, 5], "texture": "#0"},
+				"south": {"uv": [2.5, 3.75, 3.5, 5], "texture": "#0"},
+				"west": {"uv": [2.5, 3.75, 3.5, 5], "texture": "#0"},
+				"up": {"uv": [1, 5.75, 0, 4.75], "texture": "#0"},
+				"down": {"uv": [2, 4.75, 1, 5.75], "texture": "#0"}
+			}
+		},
+		{
+			"from": [4, 9, 8],
+			"to": [12, 16, 8],
+			"rotation": {"angle": 22.5, "axis": "y", "origin": [8, 9.5, 8]},
+			"faces": {
+				"north": {"uv": [8, 4.25, 10, 6], "texture": "#0"},
+				"south": {"uv": [10, 4.25, 8, 6], "texture": "#0"}
+			}
+		},
+		{
+			"from": [8, 9, 4],
+			"to": [8, 16, 12],
+			"rotation": {"angle": 22.5, "axis": "y", "origin": [8, 9.5, 8]},
+			"faces": {
+				"east": {"uv": [8, 2.5, 10, 4.25], "texture": "#0"},
+				"west": {"uv": [10, 2.5, 8, 4.25], "texture": "#0"}
+			}
+		}
+	],
+	"groups": [
+		{
+			"name": "3",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"children": [0, 1, 2, 3, 4]
+		}
+	]
+}
